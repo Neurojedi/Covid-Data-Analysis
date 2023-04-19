@@ -1,6 +1,6 @@
 # Covid-Data-Analysis
 
-<img src="covidglobalportion1.gif"></img>
+ <a align="center" dir="auto"><img src="covidglobalportion1.gif"></img></a>
 
 ## 👋 Introduction
 
