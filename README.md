@@ -1,6 +1,6 @@
 # Covid-Data-Analysis
 
-<div class="auto" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;"> <img style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;" src="covidglobalportion1.gif"></img></div>
+<p align="center"><img style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;" src="covidglobalportion1.gif"></img></p>
 
 ## 👋 Introduction
 
