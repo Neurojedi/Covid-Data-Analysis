@@ -1,6 +1,6 @@
 # Covid-Data-Analysis
 
-<div style="  display: block; margin-left: auto; margin-right: auto;"><img src="covidglobalportion1.gif"></img></div>
+<div ><img style="display: block; margin-left: auto; margin-right: auto;" src="covidglobalportion1.gif"></img></div>
 
 ## 👋 Introduction
 
