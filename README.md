@@ -1,4 +1,7 @@
 # Covid-Data-Analysis
 
+<img src="covidglobalportion1.gif"></img>
 
-Welcome to my Exploratory Data Analysis on Covid Data. This is an extended work on my covid data analysis in my last Linear Regression notebook as well as it is an assignment for the Programming with Python (SE307) course that I took last semester. In this notebook, I will be extending the dates of analysis on the previous notebook and adding some time series visualization. In addition, I will also be sharing the MATLAB script that I used for creating the CSV files.
+## 👋 Introduction
+
+Welcome to Exploratory Data Analysis on Covid Data. This repository contains an extended work on my covid data analysis in my last Linear Regression notebook, as well as an assignment for the Programming with Python (SE307) course that I took last semester. In this notebook, I have extended the dates of analysis from the previous notebook and added some time series visualizations. Additionally, I have included the MATLAB script used to create the CSV files. Please feel free to explore the notebook and files and provide any feedback or suggestions.
